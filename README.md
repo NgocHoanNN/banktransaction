@@ -1,1 +1,2 @@
 # banktransaction
+In this project, I've implemented CRUD operations in ASP.NET Core MVC using Entity Framework DB First Approach. The application builds from scratch to a complete MVC application in a step-by-step progressive manner.  I've discussed best practices that I learned from experiences in this tutorial here. also, explained possible common problems and their solution that you might have while developing the application.
